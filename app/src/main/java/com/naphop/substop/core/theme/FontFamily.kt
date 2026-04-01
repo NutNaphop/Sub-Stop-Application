@@ -1,4 +1,4 @@
-package com.naphop.substop.ui.theme
+package com.naphop.substop.core.theme
 
 import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily

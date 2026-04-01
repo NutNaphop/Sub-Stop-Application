@@ -10,8 +10,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.naphop.substop.ui.components.CustomText
-import com.naphop.substop.ui.theme.SubstopTheme
+import com.naphop.substop.core.components.CustomText
+import com.naphop.substop.core.theme.SubstopTheme
 
 @Composable
 fun HomeScreen(modifier: Modifier = Modifier){
